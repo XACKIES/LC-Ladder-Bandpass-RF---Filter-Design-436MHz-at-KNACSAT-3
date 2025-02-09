@@ -2,7 +2,7 @@
 created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 2nd-year Engineering student)
 
 ## Introduction 
-In May 2024 - July 2024 .I joined the KNACSAT 3 project as a side project to work with my friend. So my responsibility is to design a 436MHz LC Ladder RF bandpass filter with a bandwidth of 30MHz but the bandwidth can be used as 5.5MHz (S11 accepted). This project helped me develop my skills in RF Electronics Field. 
+In May 2024 - July 2024 .I joined the KNACSAT 3 project as a side project to work with my friend. So my responsibility is to design a 436MHz LC Ladder RF bandpass filter with a bandwidth of 30MHz but the bandwidth can be used as 5.5MHz (S11 accepted) to be used as a prototype for use with Pico satellite transceivers. This project helped me develop my skills in RF Electronics Field. 
 
 -- "Thank you KNACSAT 3"--
 
